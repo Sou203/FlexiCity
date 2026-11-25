@@ -1,6 +1,6 @@
 # FlexiCity
 
-[![tests](https://github.com/KSou799/FlexiCity/actions/workflows/tests.yml/badge.svg)](https://github.com/KSou799/FlexiCity/actions/workflows/tests.yml)
+[![tests](https://github.com/Sou203/FlexiCity/actions/workflows/tests.yml/badge.svg)](https://github.com/Sou203/FlexiCity/actions/workflows/tests.yml)
 
 A 24-hour electricity load-shifting simulator. It models 24 flexible city loads, such as EV charging, heat pumps, HVAC and refrigeration, and moves the shiftable part of each one into hours with spare grid capacity and lower prices. At default settings it lowers the daily peak of the modelled city by 9.2% and the daily electricity cost of the flexible loads by 11.3%.
 
@@ -151,7 +151,7 @@ The code was first uploaded to GitHub on 1 March 2026, so the commit history sta
 
 Urban Circular Hack Helsinki 2025 (U!REKA European University hackathon), HXRC Arabia Campus, 24 to 25 November 2025. Partners: Metropolia UAS, City of Helsinki, City of Espoo, City of Vantaa, Helsinki-Uusimaa Regional Council.
 
-**Team 7:** Sou Komiya, Robert Winiarczyk, Dimitrios Pontikakis Batana, Ailikuti Tayier.
+**Team 7:** Sou203, Robert Winiarczyk, Dimitrios Pontikakis Batana, Ailikuti Tayier.
 
 ## Why it matters
 
